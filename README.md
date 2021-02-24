@@ -38,23 +38,13 @@ Watch this video for additional details:
 
 If you have questions about a specific topic, you can refer or ask it on the [Luos' Forum](https://community.luos.io/). And if you have suggestions about this documentation, don't hesitate to create pull requests.
 
+## Examples
+
+Example Apps and Containers are available [here](https://github.com/Luos-io/Examples). Feel free to clone this repository and use the examples to learn about Luos, or as a basis for your own applications.
+
 ## Don't hesitate to read [our documentation](https://docs.luos.io), or to post your questions/issues on the [Luos' Forum](https://community.luos.io). :books:
 
-# Cloning repository
 
-This repository contains a submodule. The `examples` folder is linked to another repository. That means this folder won't be cloned with a regular `git clone`.
-
-If you want to clone the `examples` folder along with this repo, type:
-
-```
-git clone --recursive https://github.com/Luos-io/Luos.git
-```
-
-If you already cloned this repository and want to update the submodule `examples`, type:
-
-```
-git submodule update --init --recursive
-```
 
 [![](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fcommunity.luos.io&logo=Discourse)](https://community.luos.io)
 [![](https://img.shields.io/badge/Luos-Documentation-34A3B4)](https://docs.luos.io)
