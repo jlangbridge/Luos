@@ -6,13 +6,13 @@
 
 > If you want to clone this repo, please refer to [cloning repository](#cloning-repository) section.
 
-# Introduction to Luos? :bulb:
+# Itroduction to Luos? :bulb:
 
 We started designing Luos with the conviction that building electronic systems should be made easier than it is today. The majority of development time should be spent on designing the applications and behaviors instead of on complex and time-and-money-eating technicalities. To give a simple example, adding a new sensor (for example a distance sensor) to an electronic device in conception should not take more than a few minutes. So you can try, test and quickly iterate on a project to quickly design what users truly want.
 
 Luos works like a [microservice architecture](https://en.wikipedia.org/wiki/Microservices) in the software world, and a [distributed operating system](https://en.wikipedia.org/wiki/Distributed_operating_system): it encapsulates any software or hardware function to make it communicate and work with any other encapsulated module, however it was developed, either on bare metal or on top of an embedded OS.
 
-This repository contains the Luos library that you will need to include in your software projects. To correctly configure your hardware, it should be used in conjunction with the [LuosHAL project](https://github.com/Luos-io/LuosHAL).
+This repository contains the Luos library that you will need to include in your software projects. To correctly configure your hardware, iIt should be used in conjunction with the [LuosHAL project](https://github.com/Luos-io/LuosHAL).
 
 Watch this video for additional details:
 
